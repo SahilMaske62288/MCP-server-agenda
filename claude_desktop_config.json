@@ -1,0 +1,12 @@
+{
+  "postgres": {
+    "command": "C:/Users/prati/anaconda3/Scripts/uv.exe",
+    "args": [
+      "--directory",
+      "C:/Users/prati/Documents/mcp-server-agenda",
+      "run",
+      "postgres.py"
+    ]
+  }
+}
+

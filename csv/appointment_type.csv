@@ -1,0 +1,11 @@
+id,appointment_type,hourly_rate
+100,General Consultation,70
+75,Follow-up Visit,50
+120,Physical Exam,80
+50,Vaccination,40
+150,Therapy Session,100
+0,Emergency Appointment,500
+30,Specialist Consultation,60
+200,Surgery Consultation,120
+90,Lab Test Review,30
+60,Medication Review,40
