@@ -139,6 +139,7 @@ MCP-server-agenda/
 
 ## 💡 Acknowledgements
 
+
 Built with  by Pratiksha Kachole and Sahil Maske
 Special thanks to the sleepless nights, endless debugging, and EC2 reboots
 
