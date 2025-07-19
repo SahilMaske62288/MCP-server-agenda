@@ -110,8 +110,8 @@ MCP-server-agenda/
 
 | 👤 Name              | 🌐 GitHub Username                                          | 🛠️ Role                        |
 |----------------------|------------------------------------------------------------|-------------------------------|
-| Pratiksha Kachole    | [pratikshakachole](https://github.com/pratikshakachole)   | Code + Data Mastermind        |
-| Sahil Maske (You 😎) | [SahilMaske62288](https://github.com/SahilMaske62288)     | EC2 + Docker + Deploy King    |
+| Pratiksha Kachole    | [pratikshakachole](https://github.com/pratikshakachole)   | Code + Data  + MCP Server     |
+| Sahil Maske  | [SahilMaske62288](https://github.com/SahilMaske62288)     | EC2 + Docker + Deploy    |
 
 ---
 
@@ -119,6 +119,7 @@ MCP-server-agenda/
 
 - [x] Python 3.10 🐍
 - [x] FastAPI ⚡
+- [x] MCP Server⚙️
 - [x] PostgreSQL 🛢️
 - [x] Docker 🐳
 - [x] AWS EC2 ☁️
@@ -136,12 +137,11 @@ MCP-server-agenda/
 ---
 
 
-## 🧠 Final Words
+## 💡 Acknowledgements
 
-Built with 💙, brain, and caffeine by  
-**Pratiksha Kachole** - pratikshakachole19@gmail.com 
-**Sahil Maske** - sahilmaske143@gmail.com
-_“From EC2 boot to API route — this server never sleeps.”_
-
+Built by
+Pratiksha Kachole - pratikshakachole19@gmail.com
+Sahil Maske - sahilmaske143@gmail.com
+Special thanks to the sleepless nights, endless debugging, and EC2 reboots 
 ---
 
