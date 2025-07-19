@@ -84,7 +84,7 @@ MCP-server-agenda/
 └── README.md
 ```
 ---
-## 🖼️ Staging Timeline
+## 🖼️ TEST WITH MCP INSPECTOR
 
 > MCP journey — from 🐣 to 🔥
 
