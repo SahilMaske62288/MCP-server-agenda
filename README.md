@@ -13,7 +13,7 @@
 
 ## 🚀 About the Project
 
-This project is a robust **MCP (Modular Control Panel) Server** backend created with FastAPI, PostgreSQL, and containerized with Docker, then deployed on **AWS EC2** with full production readiness.
+This project is a robust **MCP (Model Context Protocol Server)** backend created with FastAPI, PostgreSQL, and containerized with Docker, then deployed on **AWS EC2** with full production readiness.
 
 It represents a **collaborative build** between cloud engineering and API design/data management excellence.
 
@@ -66,6 +66,23 @@ http://<your-ec2-public-ip>:8000
 
 ✅ Make sure **port 8000** is open in EC2 Security Group!
 
+
+
+## 📦 Project Structure
+
+```
+MCP-server-agenda/
+│
+├── mcp/
+│   └── server/
+│       └── fastmcp/
+│            └── server.py
+│
+├── postgres.py
+├── Dockerfile
+├── env.txt
+└── README.md
+```
 ---
 ## 🖼️ Staging Timeline
 
@@ -86,23 +103,6 @@ http://<your-ec2-public-ip>:8000
 ### 🚀
 
 ![Deployment Success](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-final-img-id)
-
-
-## 📦 Project Structure
-
-```
-MCP-server-agenda/
-│
-├── mcp/
-│   └── server/
-│       └── fastmcp/
-│            └── server.py
-│
-├── postgres.py
-├── Dockerfile
-├── env.txt
-└── README.md
-```
 
 ---
 
