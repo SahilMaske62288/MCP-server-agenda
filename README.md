@@ -139,9 +139,12 @@ MCP-server-agenda/
 
 ## 💡 Acknowledgements
 
-Built by
-**Pratiksha Kachole ** - pratikshakachole19@gmail.com_
-**Sahil Maske** - sahilmaske143@gmail.com
-Special thanks to the sleepless nights, endless debugging, and EC2 reboots 
+Built with  by Pratiksha Kachole and Sahil Maske
+Special thanks to the sleepless nights, endless debugging, and EC2 reboots
+
 ---
+## 📬 Contact
+For any questions or collaborations:
+📧 [pratikshakachole19@gmail.com]
+📧 [sahilmaske143@gmail.com]
 
