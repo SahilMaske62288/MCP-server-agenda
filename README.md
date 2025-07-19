@@ -86,23 +86,23 @@ MCP-server-agenda/
 ---
 ## 🖼️ TEST WITH MCP INSPECTOR
 
-> MCP journey — from 🐣 to 🔥
+> MCP Server
 
-### ⏳
+###
 
-![Initial Setup](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-initial-img-id)
-
----
-
-### 🐳
-
-![Docker Run](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-mid-img-id)
+![Initial(https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-initial-img-id)
 
 ---
 
-### 🚀
+###
 
-![Deployment Success](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-final-img-id)
+![Middal(https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-mid-img-id)
+
+---
+
+### 
+
+![Test(https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-final-img-id)
 
 ---
 
