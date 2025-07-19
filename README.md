@@ -37,28 +37,6 @@ It represents a **collaborative build** between cloud engineering and API design
 
 ---
 
-## 🖼️ Staging Timeline
-
-> MCP journey — from 🐣 to 🔥
-
-### ⏳ Initial
-
-![Initial Setup](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-initial-img-id)
-
----
-
-### 🐳 Midway
-
-![Docker Run](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-mid-img-id)
-
----
-
-### 🚀 Final Stage
-
-![Deployment Success](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-final-img-id)
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repo
@@ -89,6 +67,26 @@ http://<your-ec2-public-ip>:8000
 ✅ Make sure **port 8000** is open in EC2 Security Group!
 
 ---
+## 🖼️ Staging Timeline
+
+> MCP journey — from 🐣 to 🔥
+
+### ⏳
+
+![Initial Setup](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-initial-img-id)
+
+---
+
+### 🐳
+
+![Docker Run](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-mid-img-id)
+
+---
+
+### 🚀
+
+![Deployment Success](https://github.com/SahilMaske62288/MCP-server-agenda/assets/your-final-img-id)
+
 
 ## 📦 Project Structure
 
@@ -141,7 +139,8 @@ MCP-server-agenda/
 ## 🧠 Final Words
 
 Built with 💙, brain, and caffeine by  
-**Pratiksha Kachole** and **Sahil Maske**  
+**Pratiksha Kachole** - pratikshakachole19@gmail.com 
+**Sahil Maske** - sahilmaske143@gmail.com
 _“From EC2 boot to API route — this server never sleeps.”_
 
 ---
